@@ -7,7 +7,7 @@ I’m Anna, a Data Scientist, passionate visualizer and machine learning special
 ## Get in touch
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anna-tarassyuk/)
-[![Instagram Badge](https://github.com/AnnaTarassyuk/AnnaTarassyuk/blob/main/insta%20logo%20small.png?raw=true)](https://www.instagram.com/anna.tarassyuk/)
+[![Instagram Badge](https://github.com/AnnaTarassyuk/AnnaTarassyuk/blob/main/icons8-instagram-48.png?raw=true)](https://www.instagram.com/anna.tarassyuk/)
 
 ## :briefcase: Skills 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4682B4)
