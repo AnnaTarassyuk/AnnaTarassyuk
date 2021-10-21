@@ -1,5 +1,5 @@
 ### Hi, I'm Anna :wave:
-[![AnnaTarassyuk's GitHub Banner](./assets/GitHubHeader.png)]
+[![AnnaTarassyuk's GitHub Banner](./blob/main/Github%20bunner.png)]
 
 <!--
 **AnnaTarassyuk/AnnaTarassyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
