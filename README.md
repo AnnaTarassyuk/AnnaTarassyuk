@@ -39,4 +39,7 @@ I’m Anna, a Data Scientist, passionate visualizer and machine learning special
 </details>
 
 <!-- Pinned Repositories -- >
+<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AnnaTarassyuk&repo=yandex_projects&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnnaTarassyuk&repo=yandex_projects)](https://https://github.com/AnnaTarassyuk/yandex_projectsts)
