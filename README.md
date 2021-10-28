@@ -37,3 +37,6 @@ I’m Anna, a Data Scientist, passionate visualizer and machine learning special
   
 
 </details>
+
+<!-- Pinned Repositories -- >
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnnaTarassyuk&repo=yandex_projects)](https://https://github.com/AnnaTarassyuk/yandex_projectsts)
